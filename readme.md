@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://openexpoeurope.com/wp-content/uploads/2023/05/logo-factoria-f5.png" alt="FactoriaF5"/>
+</p>
+
+
 # Primera Lectura de Csv en Python
 
 ## 1. Crear un entorno virtual con cualquiera de las herramientas disponibles y activarlo
@@ -31,7 +36,7 @@ Nota: Reemplaza "nombre_entorno" con el nombre del entorno virtual que deseas ab
 
 
 ## 3. Importar librerías en el archivo
-
+     
 En el archivo deseado, importa las siguientes librerías:
 
 ```python

@@ -8,7 +8,7 @@
 
             R: conda activate --name "nombre entorno" // conda deactive "nombre del entorno"
 
-            R: conda install numpy pandas Matplitlib (instalar librerias)
+            R: conda install numpy pandas Matplitlib jupyter (instalar librerias)
 
             R: conda info --envs
 
