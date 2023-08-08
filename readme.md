@@ -2,45 +2,26 @@
   <img src="https://openexpoeurope.com/wp-content/uploads/2023/05/logo-factoria-f5.png" alt="FactoriaF5"/>
 </p>
 
+## Curso de Inteligencia Artificial por FactoriaF5
+¡Bienvenido al repositorio del Curso de Inteligencia Artificial ofrecido por FactoriaF5!
 
-# Primera Lectura de Csv en Python
+##Organización: FactoriaF5
+FactoriaF5 es una organización dedicada a proporcionar educación y formación de alta calidad en tecnologías emergentes, incluida la Inteligencia Artificial. Nuestro objetivo es capacitar a individuos con las habilidades necesarias para prosperar en el mundo digital en constante evolución.
 
-## 1. Crear un entorno virtual con cualquiera de las herramientas disponibles y activarlo
+## Descripción del Repositorio
+Este repositorio contiene una variedad de proyectos emocionantes realizados a lo largo del Curso de Inteligencia Artificial de FactoriaF5. Estos proyectos cubren una amplia gama de temas relacionados con la IA y están diseñados para ayudarte a desarrollar un conocimiento sólido y práctico en esta emocionante área.
 
-1. Abrir una terminal.
-2. Crear un entorno virtual con el siguiente comando:
+## Estructura del Repositorio
+El repositorio está organizado en carpetas según los diferentes módulos del curso. Cada carpeta contiene proyectos, ejercicios y recursos relacionados con el contenido de ese módulo en particular. A continuación, se presenta una vista general de la estructura del repositorio:
 
+Curso de Inteligencia Artificial por FactoriaF5
+¡Bienvenido al repositorio del Curso de Inteligencia Artificial ofrecido por FactoriaF5!
 
-## Nota: Puedes reemplazar "nombre_entorno" con el nombre que desees para tu entorno virtual.
+Organización: FactoriaF5
+FactoriaF5 es una organización dedicada a proporcionar educación y formación de alta calidad en tecnologías emergentes, incluida la Inteligencia Artificial. Nuestro objetivo es capacitar a individuos con las habilidades necesarias para prosperar en el mundo digital en constante evolución.
 
-3. Activar el entorno virtual con el siguiente comando:
+Descripción del Repositorio
+Este repositorio contiene una variedad de proyectos emocionantes realizados a lo largo del Curso de Inteligencia Artificial de FactoriaF5. Estos proyectos cubren una amplia gama de temas relacionados con la IA y están diseñados para ayudarte a desarrollar un conocimiento sólido y práctico en esta emocionante área.
 
-## Nota: Recuerda reemplazar "nombre_entorno" con el nombre del entorno virtual que creaste.
-
-4. Instalar las librerías necesarias:
-
-5. Verificar los entornos virtuales disponibles:
-
-6. Abrir Jupyter Notebook:
-
-
-## 2. Abrir un entorno virtual ya creado
-
-1. Abrir una terminal.
-2. Verificar la lista de entornos virtuales disponibles con el siguiente comando:
-
-3. Activar el entorno virtual deseado con el siguiente comando:
-
-Nota: Reemplaza "nombre_entorno" con el nombre del entorno virtual que deseas abrir.
-4. Abrir Jupyter Notebook:
-
-
-## 3. Importar librerías en el archivo
-     
-En el archivo deseado, importa las siguientes librerías:
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-from matplotlib.cm import viridis
-from IPython.display import FileLink
+Estructura del Repositorio
+El repositorio está organizado en carpetas según los diferentes módulos del curso. Cada carpeta contiene proyectos, ejercicios y recursos relacionados con el contenido de ese módulo en particular.
